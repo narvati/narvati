@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://raw.githubusercontent.com/narvati/narvati/main/Nicolas%20Arvati.vcf" download type="text/vcf">Download my contact card</a>
+<a id="raw-url"  href="https://raw.githubusercontent.com/narvati/narvati/main/Nicolas%20Arvati.vcf" download type="text/vcf">Download my contact card</a>
